@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "description": "A vulnerable todo demo application",
   "dependencies": {
-    "mongoose": "4.0.0"
+    "mongoose": "5.11.7"
   }
 }
